@@ -1,3 +1,10 @@
 Allows image capabilities. 
 Images on clipboard are sent to the llm, works best with images with text, mas even images with no text can be descrived by the model.
 Only tested with Gemini
+
+Copy image ( no text)  to clipboard - shortcut to activate - ask llm what is seeing? 
+![CleanShot 2025-01-23 at 13 26 31@2x](https://github.com/user-attachments/assets/76de4b1d-0096-45ba-99cc-07a93612bef5)
+App replies 
+![CleanShot 2025-01-23 at 13 26 14@2x](https://github.com/user-attachments/assets/2f509e8b-53b4-4bd5-ba8d-2b5f9524b15e)
+
+If the image as text, it is possible to ask the llm to summarize, or key points, etc 
