@@ -7,4 +7,5 @@ Only tested with Gemini
 
 If the image as text, it is possible to ask the llm to summarize, or key points, etc 
 
+04/02/2025
 Added the ability to share an url direcly to the app. Copy the URL to the clipboard, if the app detects an URL on the clipboards, it will extract the text of that URL and make that content available for the usual app option, summarize, key points, etc.
