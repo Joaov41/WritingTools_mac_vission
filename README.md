@@ -12,3 +12,8 @@ Added the ability to share an url direcly to the app. Copy the URL to the clipbo
 
 06/02/2025
 Added the ability to feed a pdf file to the llm by using the context menu and copying to clipboard. The app will extract the text and send to LLm for the usual options.
+
+07/02/2025 
+Added the ability to feed a video file ( mp4)  to the llm by using the context menu and copying to clipboard. The video will be sent to the LLm for the usual options.
+
+![CleanShot 2025-02-07 at 15 42 26@2x](https://github.com/user-attachments/assets/628c5dd7-91da-4bd8-85e4-69464e4ddd8a)
